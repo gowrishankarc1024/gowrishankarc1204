@@ -1,4 +1,4 @@
-<h1 align="center">Hi,I'm Gowri Shankar!</h1>
+<h1 align="center">Hi, I'm Gowri Shankar!</h1>
 <p align="center">🚀 A passionate Computer Science student & aspiring Software Engineer</p>
 
 <p align="center">
