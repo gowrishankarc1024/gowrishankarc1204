@@ -26,7 +26,7 @@
 ### 📌 Projects
 
 - 🔧 [Task Management System](https://github.com/yourusername/task-manager) – Simple task app using HTML, CSS, JS, PHP, and MySQL
-- ⚙️ [SEO Blog Generator](https://github.com/yourusername/seo-blog-generator) – A Python-based multi-agent blog generator
+
 
 ---
 
