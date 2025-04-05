@@ -11,8 +11,10 @@
 
 - 🎓 I'm a BSc Computer Science student (2022–2025) with a CGPA of 7.5  
 - 💼 Completed a *Web Conversion Internship at Edel Works* (May–June 2024)  
-- 🌱 Currently learning: *Python Automation, React.js, and Software Engineering*
-- 💡 I enjoy working on practical web projects and solving real-world problems
+- 🎓 I'm a fresher in Computer Science with a deep interest in software & web development
+- 💼 Actively applying for *Associate Software Engineer* roles & internships
+- 🌱 Currently learning: *Advanced Python, React.js, and Problem Solving*
+- 💡 Exploring creative projects that combine automation and web technologies
 
 ---
 
@@ -66,8 +68,5 @@ A Python-based multi-agent blog generator
 - [LinkedIn](https://www.linkedin.com/in/gowri-shankar-c40)
 - [Email](mailto:gowrishankarc18@gmail.com)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="150" alt="thanks gif" />
-</p>
 
 ⭐ Thanks for visiting my profile! Let’s connect and create something awesome together.
