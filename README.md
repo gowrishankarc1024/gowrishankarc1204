@@ -42,15 +42,11 @@ Chennai | May – June 2024
 
 ---
 
+
 ### 📌 Projects
 
-#### Task Management System  
-A simple task app using HTML, CSS, JS, PHP, and MySQL  
-<img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/task-app.png" width="500" alt="Task Management Screenshot" />
+- 🔧 [Task Management System](https://github.com/yourusername/task-manager) – Simple task app using HTML, CSS, JS, PHP, and MySQL
 
-#### SEO Blog Generator  
-A Python-based multi-agent blog generator  
-<img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/seo-blog.png" width="500" alt="SEO Generator Screenshot" />
 
 ---
 
